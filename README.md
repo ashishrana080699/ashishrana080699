@@ -1,16 +1,59 @@
-### Hi there 👋
+### Hi there, I'm [Ashish!](https://ashishrana.tech) 👋.
 
-<!--
-**ashishrana080699/ashishrana080699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/>
+<a href="https://twitter.com/ashishrana08">
+  <img align="left" alt="Ashish Rana| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ashishrana08/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/ranaashish">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://visitor-badge.glitch.me/badge?page_id=ashishrana080699.ashishrana080699)
+
+<br />
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<br />
+
+### I'm 21 years old Full-Stack developer from India.
+
+
+#### - 💬 Connect? Here 👉🏼[<img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/twitter.svg" >](https://twitter.com/ashishrana08/)
+
+
+<br />
+
+
+**I am Into , 🙏**
+
+**Web Development, Machine Learning, , IOT, Cloud. 
+<br />
+
+
+![Ashish Rana Github Stats](https://github-readme-stats.vercel.app/api?username=ashishrana080699&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br />
+
+*************
+
+<br />
+
+### - Languages and Tools...
+
+<p align="center">
+ <img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+
+
+
+***********************************
+
+#### Thank You-🙏🏼
+
+
+
+⭐️ From [ashishrana080699](https://github.com/ashishrana080699)
