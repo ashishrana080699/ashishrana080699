@@ -28,7 +28,7 @@
 
 **I am Into , 🙏**
 
-**Web Development, Machine Learning, IOT, Cloud. **
+**Web Development, Machine Learning, IOT, Cloud**
 <br />
 
 
