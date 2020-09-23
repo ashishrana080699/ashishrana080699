@@ -43,7 +43,7 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/angular.png" alt="Twitter"width="50" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/angular.png" alt="Twitter"width="35" height="35" style="vertical-align:top; margin:4px">
  <img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://github.com/ashishrana080699/ashishrana080699/blob/master/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 
@@ -54,4 +54,4 @@
 
 
 
-⭐️ From [ashishrana080699](https://github.com/ashishrana080699)
+⭐️ From [Ashish Rana](https://github.com/ashishrana080699)
