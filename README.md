@@ -1,4 +1,4 @@
-### Hi there, I'm [Ashish!](https://arcreative.azurewebsites.net/) 👋.
+### Hi there, I'm [Ashish!](https:) 👋.
 
 
 <br/>
