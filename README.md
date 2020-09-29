@@ -1,4 +1,4 @@
-### Hi there, I'm [Ashish!](https://ashishrana.tech) 👋.
+### Hi there, I'm [Ashish!](https://) 👋.
 
 
 <br/>
